@@ -36,6 +36,10 @@ Open the web app in your browser.
 2. Enter text in the text area
 3. Click the 'Analyze' button to get the predicted sentiment of the text
 
+![Alt text](1.jpg)
+
+![Alt text](2.jpg)
+
 
 ## Author
 Alidu Abubakari

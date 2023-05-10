@@ -47,11 +47,16 @@ Open the web app in your browser.
 ![Alt text](5.jpg)
 
 
-## Author
+## Contact
+`Alidu Abubakari`
 
-Alidu Abubakari
+`Data Analyst`
 
-Data Analyst
+`Azubi Africa`
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) 
+
+
 
 
 

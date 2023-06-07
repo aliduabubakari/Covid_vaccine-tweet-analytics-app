@@ -62,15 +62,7 @@ Alternatively, you can visit:
 ``` bash
 https://huggingface.co/spaces/Abubakari/Sales_Prediction#sales-prediction-app
 
-``` 
-
-## Install the dependencies
-
-Navigate to the cloned repository and run the command:
-
-``` bash
-pip install -r requirements.txt
-``` 
+```  
 
 ## App Execution on huggingface 
 Here's a step-by-step process on how to use the Streamlit_Covid_vaccine-tweet-analytics-app

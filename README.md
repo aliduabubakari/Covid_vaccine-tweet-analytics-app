@@ -14,7 +14,9 @@ Build a streamlit app for the classifcation of tweet using pretrained models fro
 
 - The app allows users to enter a keyword or phrase related to Covid-19 vaccines and displays the sentiment analysis of the resulting tweets in real-time.
 
-- The models used in the app include **BERT**, **RoBERTa**, and **DistilBERT**, which are state-of-the-art natural language processing models.
+- The models used in the app include **BERT**, **RoBERTa**, and **DistilBERT**, which are state-of-the-art natural language processing models. 
+
+- More details on the modelling can be found [here](https://medium.com/@alidu143/analyzing-sentiment-towards-the-covid-vaccines-using-pretrained-huggingface-models-8222d2e3610d) and [here](https://github.com/aliduabubakari/Analysing-social-media-sentiment-.git)
 
 - The app also includes a visualization of the sentiment analysis results, allowing users to easily see the distribution of positive, negative, and neutral tweets related to Covid-19 vaccines.
 
@@ -99,8 +101,9 @@ Open the web app in your browser.
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) 
 
+Read more on my medium: 
 
-
+[![Medium]](https://medium.com/@alidu143/building-a-sales-prediction-app-with-streamlit-and-machine-learning-31746625d6ca) 
 
 
 

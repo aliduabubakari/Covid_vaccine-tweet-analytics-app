@@ -81,7 +81,7 @@ Open the web app in your browser.
 
 ![Alt text](/images/4.jpg)
 
-![Alt text](5/images/.jpg)
+![Alt text](/images/5.jpg)
 
 
 ## Contact

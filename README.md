@@ -95,7 +95,7 @@ Open the web app in your browser.
 
 Read more on my medium: 
 
-[![Medium]](https://medium.com/@alidu143/building-a-sales-prediction-app-with-streamlit-and-machine-learning-31746625d6ca) 
+![[Medium]](https://medium.com/@alidu143/building-a-sales-prediction-app-with-streamlit-and-machine-learning-31746625d6ca) 
 
 
 
